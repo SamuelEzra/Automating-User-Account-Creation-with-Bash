@@ -1,6 +1,6 @@
 ## Automating User Account Creation with Bash
 
-Ezra Samuel's photo Ezra Samuel · Jul 5, 2024 · 2 min read
+Ezra Samuel · Jul 5, 2024 · 2 min read
 
 ### Introduction 
 The inevitable task of a SysOps engineer in an organization is creating user accounts and groups. For a small organization, this can be easy to perform manually. For large organizations however, this can prove to be a daunting task. More so, it would be error prone. This challenge can be taken off by automating the process using bash scripts.
