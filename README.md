@@ -60,3 +60,6 @@ Performing everyday tasks in the work environment can be very tiring if done ent
 
 About HNG Internship
 Do you wish to learn more or you want to try your hands on some tasks and projects? Please visit https://hng.tech/internship. This program is already underway. You also have an opportunity to collaborate with like minds at https://hng.tech/premium. I'll be glad to connect with you.
+
+
+Link to published article: https://ezraone.hashnode.dev/automating-user-account-creation-with-bash
