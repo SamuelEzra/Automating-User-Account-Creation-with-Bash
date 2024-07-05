@@ -7,27 +7,27 @@ The inevitable task of a SysOps engineer in an organization is creating user acc
 
 This article gives a step-by-step guide on how to automate the process of user and group creation using Bash script.
 
-## Prerequisite Basic understanding of Linux commands
+### Prerequisite Basic understanding of Linux commands
+- Linux environment to run script
+- Create a text file containing users and groups
 
-Linux environment to run script
+### Defining Variables The needed variables are defined
 
-Create a text file containing users and groups
+### Checking For Root Privileges 
+This is an administrative task, so the command verifies if the user has root privileges.
 
-Defining Variables The needed variables are defined
+### Checking for the Input File 
+The script verifies if an input file has been provided
 
-Checking For Root Privileges This is an administrative task, so the command verifies if the user has root privileges.
+### Creating Directories and Files 
+Here, the required directories are created
 
-Checking for the Input File The script verifies if an input file has been provided
+### Creating Functions 
+Two Functions are used
+- To generate password
+- To log messages
 
-Creating Directories and Files Here, the required directories are created
-
-Creating Functions Two Functions are used
-
-To generate password
-
-To log messages
-
-Processing the Input File
+### Processing the Input File
 
 ### Conclusion 
 Performing everyday tasks in the work environment can be very tiring if done entirely manually. Automating tasks using scripts like this one makes work faster, easier and a lot more fun.
