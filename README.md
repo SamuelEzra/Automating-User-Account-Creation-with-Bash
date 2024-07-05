@@ -11,6 +11,7 @@ This article gives a step-by-step guide on how to automate the process of user a
 - Linux environment to run script
 - Create a text file containing users and groups
 
+### Steps
 ### Defining Variables The needed variables are defined
 
 ### Checking For Root Privileges 
